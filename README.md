@@ -28,7 +28,7 @@ Whether you're looking to challenge yourself, learn new words, or simply pass th
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
-|------------|----------|
+| --- | --- |
 | React | User Interface |
 | Vite | Development & Build Tool |
 | Tailwind CSS | Styling |
