@@ -1,12 +1,12 @@
+import TextInputFormContainer from './components/TextinputForm/TextInputFormContainer.jsx'
 import './App.css'
-import Button from './components/Button/Button.jsx'
 
 function App() {
   
 
   return (
     <>
-      <Button />
+      <TextInputFormContainer />
     </>
   )
 }
